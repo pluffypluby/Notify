@@ -1,0 +1,10 @@
+D:\sources\Notify\Notify\bin\Debug\Notify.exe.config
+D:\sources\Notify\Notify\bin\Debug\Notify.exe
+D:\sources\Notify\Notify\bin\Debug\Notify.pdb
+D:\sources\Notify\Notify\obj\Debug\Notify.csproj.AssemblyReference.cache
+D:\sources\Notify\Notify\obj\Debug\Notify.Form1.resources
+D:\sources\Notify\Notify\obj\Debug\Notify.Properties.Resources.resources
+D:\sources\Notify\Notify\obj\Debug\Notify.csproj.GenerateResource.cache
+D:\sources\Notify\Notify\obj\Debug\Notify.csproj.CoreCompileInputs.cache
+D:\sources\Notify\Notify\obj\Debug\Notify.exe
+D:\sources\Notify\Notify\obj\Debug\Notify.pdb
